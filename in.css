@@ -1,0 +1,16 @@
+#city
+{
+    margin-left: 750px;
+   width:500px;
+}
+body{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.6XcASzCoRwyXqhEblMe4WwHaEK&pid=Api&P=0");
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+}
+marquee{
+    color: black;
+    font-size: 300px;
+}
